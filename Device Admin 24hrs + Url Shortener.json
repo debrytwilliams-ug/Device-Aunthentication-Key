@@ -9,7 +9,7 @@
     "base_url": "https://indianshortner.com/st?api=b4163fb8dcaf0f78fca6a1f10243cb24710ba724&url=https://translate.google.com/?sl=auto&tl=en&op=translate&text=",
     "api_token": "b4163fb8dcaf0f78fca6a1f10243cb24710ba724",
     "json_key": "shortenedUrl",
-    "destination_trick": "https://translate.google.com/?sl=auto&tl=en&op=translate&text="
+    "destination_trick": "https://indianshortner.com/st?api=b4163fb8dcaf0f78fca6a1f10243cb24710ba724&url=https://translate.google.com/?sl=auto&tl=en&op=translate&text="
   },
   "ui_text": {
     "dialog_title": "DeẞrytWare",
