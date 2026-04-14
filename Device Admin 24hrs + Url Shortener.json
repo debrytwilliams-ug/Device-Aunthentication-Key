@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "admin_url": "https://t.me/debrytslymz",
+    "info_url": "https://wa.me/message/7T2P7A3AG2BBC1",
+    "info_msg": "How To Pay and Get Code",
+    "key_validity": "8585830h"
+  },
+  "shortener": {
+    "base_url": "https://adfly.site/o553d21",
+    "api_token": "7c1e6004fb594c094bebbe892cb9abcba9e8beec",
+    "json_key": "shortenedUrl",
+    "destination_trick": "https://translate.google.com/?sl=auto&tl=en&op=translate&text="
+  },
+  "ui_text": {
+    "dialog_title": "DeẞrytWare",
+    "dialog_subtitle": "Device Authentication Required",
+    "btn_get_code": "Get Code",
+    "btn_login": "Grant Access",
+    "btn_admin": "Deßryt",
+    "btn_update": "Update Now",
+    "input_hint": "Paste Code Here Please!"
+  },
+  "theme": {
+    "accent_color": "#FF6200EE",
+    "text_color": "#FFFFFFFF",
+    "btn_stroke_color": "#FF9D46FF"
+  },
+  "time_settings": {
+    "api_url": "http://worldtimeapi.org/api/timezone/",
+    "timezone": "Africa/Kampala"
+  },
+  "update_system": {
+    "force_update_date": "01/04/2026",
+    "update_url": "https://t.me/+xaWdKu6KaW00MzA0",
+    "update_title": "Update Required",
+    "update_msg": "A new version is available. Please update."
+  }
+}
