@@ -34,5 +34,11 @@
         "Code": "LEWISHALL",
         "expirydate": "15-06-2035",
         "Allowoffline": true
+    },
+    {   "username": "user001",
+        "device_id": "",
+        "password": "sha256_hash_here",
+        "expiry_date": "",
+        "allow_offline": true
     }
 ]
