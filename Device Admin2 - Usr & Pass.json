@@ -3,10 +3,10 @@
     "Device Id": "PASTE-DEVICE-ID", 
     "username": "PASTE-USERNAME",
     "password": "PASTE-PASSWORD",
-    "expiry": "2025-10-15" // DATE FORMAT~ YYYY-MM-DD
+    "expiry": "2025-10-15"
   },
   {
-    "Device Id": "",  // NO DEVICE ID, LOGIN NOT WORK 
+    "Device Id": "", 
     "username": "abc",
     "password": "101",
     "expiry": "2026-09-29"
@@ -15,7 +15,7 @@
     "Device Id": "PASTE-DEVICE-ID",
     "username": "def",
     "password": "102",
-    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+    "expiry": ""  
   },
   {
     "Device Id": "PASTE-DEVICE-ID",
@@ -27,7 +27,7 @@
     "Device Id": "edf0370df2a41d9f",
     "username": "wamani2",
     "password": "testapppass456",
-    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+    "expiry": ""  
   },
   {
     "Device Id": "PASTE-DEVICE-ID",
@@ -39,7 +39,7 @@
     "Device Id": "PASTE-DEVICE-ID",
     "username": "pqr",
     "password": "106",
-    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+    "expiry": ""  
   },
   {
     "Device Id": "",
