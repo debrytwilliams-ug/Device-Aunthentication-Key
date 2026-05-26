@@ -40,5 +40,11 @@
     "Code": "Gdhdhdhd",
     "expirydate": "19-07-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "Slezo",
+    "Code": "Bigman",
+    "expirydate": "",
+    "Allowoffline": true
   }
 ]
