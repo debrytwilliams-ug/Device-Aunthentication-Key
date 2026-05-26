@@ -40,5 +40,11 @@
     "username": "pqr",
     "password": "106",
     "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+  },
+  {
+    "Device Id": "",
+    "username": "user001",
+    "password": "yourPassword",
+    "expiry": ""
   }
 ]
