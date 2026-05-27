@@ -34,17 +34,5 @@
     "Code": "LEWISHALL",
     "expirydate": "15-06-2035",
     "Allowoffline": true
-  },
-  {
-    "device_id": "Bdhdjdjd",
-    "Code": "Gdhdhdhd",
-    "expirydate": "19-07-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "Slezo",
-    "Code": "Bigman",
-    "expirydate": "",
-    "Allowoffline": true
   }
 ]
