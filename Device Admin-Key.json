@@ -1,44 +1,8 @@
 [
   {
-    "device_id": "device123",
-    "Code": "Code12345",
-    "expirydate": "31-12-2025",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "device456",
-    "Code": "Code67890",
-    "expirydate": "15-06-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "19718c784daa39fe",
-    "Code": "WENZERDEB",
-    "expirydate": "15-06-2035",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "edf0370df2a41d9f",
-    "Code": "MUNODXB",
-    "expirydate": "15-06-2035",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "22350e3d5eb15a19",
-    "Code": "MUNO@GILBERT",
-    "expirydate": "15-06-2027",
-    "Allowoffline": true
-  },
-  {
     "device_id": "9d5d4ddd8dd4d0e5",
-    "Code": "LEWISHALL",
-    "expirydate": "15-06-2035",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "9d5d4ddd8dd4d0e5",
-    "Code": "LEWISHALL",
-    "expirydate": "15-06-2035",
+    "Code": "",
+    "expirydate": "",
     "Allowoffline": true
   }
 ]
