@@ -1,14 +1,1 @@
-[
-  {
-    "device_id": "",
-    "Code": "key@001",
-    "expirydate": "28-06-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "",
-    "Code": "key@002",
-    "expirydate": "28-06-2026",
-    "Allowoffline": false
-  }
-]
+
