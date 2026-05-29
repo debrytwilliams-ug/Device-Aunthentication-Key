@@ -1,5 +1,11 @@
 [
   {
+    "device_id": "9d5d4ddd8dd4d0e5",
+    "Code": "LEWISHALL",
+    "expirydate": "",
+    "Allowoffline": true
+  },
+  {
     "device_id": "",
     "Code": "key@001",
     "expirydate": "28-06-2026",
@@ -10,35 +16,5 @@
     "Code": "key@002",
     "expirydate": "28-06-2026",
     "Allowoffline": false
-  },
-  {
-    "device_id": "DDDDDDDDDDD",
-    "Code": "48d6c5aaa0ff172f493764910410bcc5335bb47a3d9a98a543adb1ec9aa3fd9a",
-    "expirydate": "29-05-2030",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "001",
-    "Code": "key@001",
-    "expirydate": "28-06-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "002",
-    "Code": "key@002",
-    "expirydate": "28-06-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "9d5d4ddd8dd4d0e5",
-    "Code": "LEWISHALL",
-    "expirydate": "",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "9d5d4ddd8dd4d0e5",
-    "Code": "LEWISHALL",
-    "expirydate": "",
-    "Allowoffline": true
   }
 ]
