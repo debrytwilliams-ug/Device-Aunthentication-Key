@@ -10,5 +10,11 @@
     "Code": "DDDDD",
     "expirydate": "31-05-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "NRGRADIO",
+    "Code": "BXFSISO",
+    "expirydate": "29-05-2029",
+    "Allowoffline": true
   }
 ]
