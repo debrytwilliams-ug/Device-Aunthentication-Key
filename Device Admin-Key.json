@@ -28,11 +28,5 @@
     "Code": "LEWISHALL",
     "expirydate": "29-05-2030",
     "Allowoffline": true
-  },
-  {
-    "device_id": "BUDDY",
-    "Code": "CHRIS",
-    "expirydate": "30-05-2029",
-    "Allowoffline": false
   }
 ]
