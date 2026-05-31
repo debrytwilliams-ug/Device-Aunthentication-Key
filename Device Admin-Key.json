@@ -6,12 +6,6 @@
     "Allowoffline": true
   },
   {
-    "device_id": "ATE",
-    "Code": "BUSY SIGNAL",
-    "expirydate": "03-07-2026",
-    "Allowoffline": true
-  },
-  {
     "device_id": "db53a17c4ce68622",
     "Code": "ARTHUR-K",
     "expirydate": "01-07-2026",
