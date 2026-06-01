@@ -1,26 +1,8 @@
 [
   {
-    "device_id": "device123",
-    "Code": "pass123",
-    "expirydate": "31-12-2025",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "device456",
-    "Code": "pass456",
-    "expirydate": "15-06-2025",
-    "Allowoffline": false
-  },
-  {
     "device_id": "9d5d4ddd8dd4d0e5",
     "Code": "LEWISHALL",
     "expirydate": "29-06-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "db53a17c4ce68622",
-    "Code": "ARTHUR-K",
-    "expirydate": "01-07-2026",
     "Allowoffline": true
   },
   {
