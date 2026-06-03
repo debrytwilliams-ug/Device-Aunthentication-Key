@@ -12,33 +12,15 @@
     "Allowoffline": true
   },
   {
-    "device_id": "cf4fa43da8cb694bcf4fa43da8cb694b",
-    "Code": "FAUSI",
-    "expirydate": "02-07-2026",
+    "device_id": "device123",
+    "Code": "Code12345",
+    "expirydate": "31-12-2025",
     "Allowoffline": true
   },
   {
-    "device_id": "FUCKYOURPUSSY",
-    "Code": "FFFFFFFF",
-    "expirydate": "03-06-2040",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "edf0370df2a41d9f",
-    "Code": "Ddddfff",
-    "expirydate": "03-06-2033",
-    "Allowoffline": true
-  },
-  {
-        "device_id": "device123",
-        "Code": "Code12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "Code": "Code67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    }
+    "device_id": "device456",
+    "Code": "Code67890",
+    "expirydate": "15-06-2025",
+    "Allowoffline": false
+  }
 ]
