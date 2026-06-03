@@ -22,5 +22,11 @@
     "Code": "Code67890",
     "expirydate": "15-06-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Gim",
+    "Code": "Ranyicliff",
+    "expirydate": "13-06-2026",
+    "Allowoffline": true
   }
 ]
