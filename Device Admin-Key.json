@@ -22,5 +22,11 @@
     "Code": "Ffffffffffff",
     "expirydate": "04-06-2034",
     "Allowoffline": true
+  },
+  {
+    "device_id": "SAMUEL",
+    "Code": "DXFFFF",
+    "expirydate": "08-06-2026",
+    "Allowoffline": true
   }
 ]
