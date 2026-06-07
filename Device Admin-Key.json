@@ -28,5 +28,11 @@
     "Code": "JIM",
     "expirydate": "07-06-2024",
     "Allowoffline": true
+  },
+  {
+    "device_id": "DIEGOCOSTA",
+    "Code": "KEVIN",
+    "expirydate": "",
+    "Allowoffline": true
   }
 ]
