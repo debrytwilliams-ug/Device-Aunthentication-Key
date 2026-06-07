@@ -16,59 +16,5 @@
     "Code": "GIL@256",
     "expirydate": "03-07-2026",
     "Allowoffline": true
-  },
-  {
-    "device_id": "Ddddfffghhhh",
-    "Code": "DDDDDDDDD",
-    "expirydate": "01-01-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "Lathkbbb",
-    "Code": "JIM",
-    "expirydate": "07-06-2024",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "DIEGOCOSTA",
-    "Code": "KEVIN",
-    "expirydate": "01-01-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "Vdbdndndjd",
-    "Code": "Hsjsjsjs",
-    "expirydate": "01-01-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "Nxnxjxjjxkdnx",
-    "Code": "Hdhdjdjjd",
-    "expirydate": "01-01-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "ROYS ROYCE",
-    "Code": "ANITA",
-    "expirydate": "01-01-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "VANS",
-    "Code": "ASHABA",
-    "expirydate": "16-06-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "MONTENEGRO",
-    "Code": "CLERGY",
-    "expirydate": "",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "INTERNET",
-    "Code": "DEBFIX",
-    "expirydate": "07-06-2027",
-    "Allowoffline": true
   }
 ]
