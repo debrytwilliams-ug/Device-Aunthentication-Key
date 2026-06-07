@@ -32,19 +32,19 @@
   {
     "device_id": "DIEGOCOSTA",
     "Code": "KEVIN",
-    "expirydate": "",
+    "expirydate": "01-01-2026",
     "Allowoffline": true
   },
   {
     "device_id": "Vdbdndndjd",
     "Code": "Hsjsjsjs",
-    "expirydate": "",
+    "expirydate": "01-01-2026",
     "Allowoffline": true
   },
   {
     "device_id": "Nxnxjxjjxkdnx",
     "Code": "Hdhdjdjjd",
-    "expirydate": "07-06-2028",
+    "expirydate": "01-01-2026",
     "Allowoffline": true
   }
 ]
