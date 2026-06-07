@@ -52,5 +52,11 @@
     "Code": "ANITA",
     "expirydate": "01-01-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "VANS",
+    "Code": "ASHABA",
+    "expirydate": "16-06-2026",
+    "Allowoffline": false
   }
 ]
