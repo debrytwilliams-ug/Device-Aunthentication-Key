@@ -64,5 +64,11 @@
     "Code": "CLERGY",
     "expirydate": "",
     "Allowoffline": false
+  },
+  {
+    "device_id": "INTERNET",
+    "Code": "DEBFIX",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
