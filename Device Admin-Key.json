@@ -22,5 +22,11 @@
     "Code": "DDDDDDDDD",
     "expirydate": "01-01-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "Lathkbbb",
+    "Code": "JIM",
+    "expirydate": "07-06-2024",
+    "Allowoffline": true
   }
 ]
