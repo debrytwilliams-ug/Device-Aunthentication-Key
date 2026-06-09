@@ -16,5 +16,12 @@
     "Code": "GIL@256",
     "expirydate": "03-07-2026",
     "Allowoffline": true
+  },
+  
+  {
+    "device_id": "cf4fa43da8cb694b",
+    "Code": "KATU@UG",
+    "expirydate": "03-07-2026",
+    "Allowoffline": true
   }
 ]
