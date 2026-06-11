@@ -1,40 +1,44 @@
 [
-    {
-        "device_id": "device123",
-        "Code": "Code12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "Code": "Code67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-  
-    {
-        "device_id": "9d5d4ddd8dd4d0e5",
-        "Code": "LEWISHALL",
-        "expirydate": "28-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "cf4fa43da8cb694b",
-        "Code": "KATU@UG",
-        "expirydate": "01-07-2026",
-        "Allowoffline": true
-    },
-  
-    {
-        "device_id": "db53a17c4ce68622",
-        "Code": "ARTHUR-K",
-        "expirydate": "01-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "d414643a74abf332",
-        "Code": "GIL@256",
-        "expirydate": "03-07-2026",
-        "Allowoffline": true
-    }
+  {
+    "device_id": "device123",
+    "Code": "Code12345",
+    "expirydate": "31-12-2025",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "device456",
+    "Code": "Code67890",
+    "expirydate": "15-06-2025",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "9d5d4ddd8dd4d0e5",
+    "Code": "LEWISHALL",
+    "expirydate": "28-06-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "cf4fa43da8cb694b",
+    "Code": "KATU@UG",
+    "expirydate": "01-07-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "db53a17c4ce68622",
+    "Code": "ARTHUR-K",
+    "expirydate": "01-07-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "d414643a74abf332",
+    "Code": "GIL@256",
+    "expirydate": "03-07-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "Vbnjjj",
+    "Code": "DIGS",
+    "expirydate": "28-06-2026",
+    "Allowoffline": true
+  }
 ]
