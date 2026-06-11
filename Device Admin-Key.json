@@ -34,11 +34,5 @@
     "Code": "GIL@256",
     "expirydate": "03-07-2026",
     "Allowoffline": true
-  },
-  {
-    "device_id": "Vbnjjj",
-    "Code": "DIGS",
-    "expirydate": "28-06-2026",
-    "Allowoffline": true
   }
 ]
