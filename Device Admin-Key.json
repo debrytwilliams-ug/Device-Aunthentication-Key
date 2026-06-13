@@ -46,5 +46,11 @@
     "Code": "DEXTA",
     "expirydate": "30-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Nyama",
+    "Code": "Twekambe",
+    "expirydate": "13-06-3046",
+    "Allowoffline": false
   }
 ]
