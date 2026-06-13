@@ -34,17 +34,5 @@
     "Code": "GIL@256",
     "expirydate": "03-07-2026",
     "Allowoffline": true
-  },
-  {
-    "device_id": "Ddddddd",
-    "Code": "DEXTA",
-    "expirydate": "30-06-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "Djcjfkfkfk",
-    "Code": "Hdjdjfjfjf",
-    "expirydate": "28-06-2026",
-    "Allowoffline": true
   }
 ]
