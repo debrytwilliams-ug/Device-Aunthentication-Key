@@ -46,5 +46,11 @@
     "Code": "SHARONIX",
     "expirydate": "17-07-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "2a5234ab8e3319fd",
+    "Code": "BEATRACE@UG",
+    "expirydate": "20-07-2026",
+    "Allowoffline": true
   }
 ]
