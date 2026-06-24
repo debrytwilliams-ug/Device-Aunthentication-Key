@@ -1,9 +1,9 @@
 {
   "versionCode": 2,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/debrytwilliams-ug/Device-Aunthentication-Key/releases/download/%40debrytwaremodz/DEBRYT.User.Panel_1.0.apk",
-  "releaseNotes": "Initial release.",
-  "forceUpdate": true,
-  "minSupportedVersion": 1,
-  "publishedAt": "2025-06-24T00:00:00Z"
+  "versionName": "2.1",
+  "apkUrl": "https:\/\/github.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/releases\/download\/%40debrytwaremodz\/DEBRYT.User.Panel_1.0.apk",
+  "releaseNotes": "bugs fixed",
+  "forceUpdate": false,
+  "minSupportedVersion": 0,
+  "publishedAt": "2026-06-24T23:02:27Z"
 }
