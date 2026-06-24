@@ -2,8 +2,8 @@
   "versionCode": 2,
   "versionName": "2.0",
   "apkUrl": "https:\/\/github.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/releases\/download\/%40debrytwaremodz\/DEBRYT.User.Panel_2.0.apk",
-  "releaseNotes": "■ Fast server sync\n■ Bugs fixed",
-  "forceUpdate": false,
-  "minSupportedVersion": 1,
-  "publishedAt": "2026-06-25T02:16:13Z"
+  "releaseNotes": "□ Bugs fixed",
+  "forceUpdate": true,
+  "minSupportedVersion": 0,
+  "publishedAt": "2026-06-25T02:18:25Z"
 }
