@@ -1,26 +1,12 @@
 {
   "schemaVersion": 1,
-  "pushedAt": "2026-06-26T21:43:56Z",
+  "pushedAt": "2026-06-26T21:48:05Z",
   "servers": [
     {
-      "id": "srv_1782499339474",
-      "name": "diks",
-      "listener": "https:\/\/raw.githubusercontent.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/refs\/heads\/main\/Lub.json",
+      "id": "srv_1782499648753",
+      "name": "https:\/\/t.me\/debrytslymz",
+      "listener": "https:\/\/t.me\/debrytslymz",
       "jsonFormat": "a1",
-      "isActive": true
-    },
-    {
-      "id": "srv_1782499366619",
-      "name": "gigs",
-      "listener": "https:\/\/raw.githubusercontent.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/refs\/heads\/main\/Device%20Admin2%20-%20Usr%20%26%20Pass.json",
-      "jsonFormat": "a2",
-      "isActive": true
-    },
-    {
-      "id": "srv_1782499370653",
-      "name": "jjkbb",
-      "listener": "https:\/\/raw.githubusercontent.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/refs\/heads\/main\/Device%20Admin%20-%20Username%20%26%20Password.json",
-      "jsonFormat": "b",
       "isActive": true
     }
   ]
