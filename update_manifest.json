@@ -1,9 +1,9 @@
 {
   "versionCode": 3,
-  "versionName": "3.1_Turbo",
-  "apkUrl": "https:\/\/github.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/releases\/download\/%40debrytwaremodz\/DEBRYT.User.Panel_signed.apk",
-  "releaseNotes": "■ New themes added\n■ Fast server syncing",
+  "versionName": "3.2_Turbo",
+  "apkUrl": "https:\/\/github.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/releases\/download\/%40debrytwaremodz\/DEBRYT.User.Panel_signed2.apk",
+  "releaseNotes": "■ Screen display timeout aligns with the system",
   "forceUpdate": false,
   "minSupportedVersion": 3,
-  "publishedAt": "2026-06-25T23:49:43Z"
+  "publishedAt": "2026-06-26T09:11:41Z"
 }
