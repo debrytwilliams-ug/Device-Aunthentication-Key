@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "pushedAt": "2026-06-26T17:39:32Z",
+  "pushedAt": "2026-06-26T17:40:46Z",
   "servers": [
     {
       "id": "srv_1782482721560",
       "name": "Gist",
-      "listener": "https:\/\/raw.githubusercontent.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/refs\/heads\/main\/MAK.json",
+      "listener": "https:\/\/raw.githubusercontent.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/refs\/heads\/main\/jsll.json",
       "jsonFormat": "mak",
       "isActive": true
     }
