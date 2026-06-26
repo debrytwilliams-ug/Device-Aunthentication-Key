@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "pushedAt": "2026-06-26T17:27:28Z",
+  "servers": [
+    {
+      "id": "srv_1782482721560",
+      "name": "",
+      "listener": "",
+      "jsonFormat": "a1",
+      "isActive": true
+    },
+    {
+      "id": "srv_1782484044444",
+      "name": "",
+      "listener": "",
+      "jsonFormat": "a1",
+      "isActive": true
+    }
+  ]
+}
