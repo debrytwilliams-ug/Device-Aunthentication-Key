@@ -1,1 +1,13 @@
-
+{
+  "schemaVersion": 1,
+  "pushedAt": "2026-06-26T18:10:45Z",
+  "servers": [
+    {
+      "id": "srv_1782486225981",
+      "name": "Zex",
+      "listener": "https:\/\/raw.githubusercontent.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/refs\/heads\/main\/Device%20Admin2%20-%20Usr%20%26%20Pass.json",
+      "jsonFormat": "c",
+      "isActive": true
+    }
+  ]
+}
