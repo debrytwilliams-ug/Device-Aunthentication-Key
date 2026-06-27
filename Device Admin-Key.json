@@ -52,5 +52,11 @@
     "Code": "BEATRACE@UG",
     "expirydate": "20-07-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "hdjdkd",
+    "Code": "dndjdkd",
+    "expirydate": "",
+    "Allowoffline": true
   }
 ]
