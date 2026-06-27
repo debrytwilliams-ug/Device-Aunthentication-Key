@@ -1,13 +1,14 @@
 {
-  "schemaVersion": 1,
-  "pushedAt": "2026-06-27T00:05:30Z",
+  "schemaVersion": 2,
+  "pushedAt": "2026-06-27T06:23:26Z",
   "servers": [
     {
-      "id": "srv_1782507885154",
-      "name": "ddfff",
+      "id": "srv_1782530576032",
+      "name": "dsdddd",
       "listener": "https:\/\/raw.githubusercontent.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/refs\/heads\/main\/Lub.json",
-      "jsonFormat": "a2",
+      "jsonFormat": "c",
       "isActive": true
     }
-  ]
+  ],
+  "deletedIds": []
 }
