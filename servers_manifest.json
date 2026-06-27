@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
-  "pushedAt": "2026-06-27T07:01:20Z",
+  "pushedAt": "2026-06-27T07:03:51Z",
   "servers": [
     {
       "id": "srv_1782532840898",
       "name": "hhhhh",
       "listener": "https:\/\/raw.githubusercontent.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/refs\/heads\/main\/Lub.json",
-      "jsonFormat": "x",
+      "jsonFormat": "c",
       "isActive": true
     }
   ],
