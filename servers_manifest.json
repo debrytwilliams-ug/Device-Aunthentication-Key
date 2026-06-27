@@ -1,17 +1,10 @@
 {
   "schemaVersion": 2,
-  "pushedAt": "2026-06-27T07:17:35Z",
-  "servers": [
-    {
-      "id": "srv_1782532840898",
-      "name": "DEBRYT",
-      "listener": "https:\/\/raw.githubusercontent.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/refs\/heads\/main\/Lub.json",
-      "jsonFormat": "c",
-      "isActive": true
-    }
-  ],
+  "pushedAt": "2026-06-27T08:51:28Z",
+  "servers": [],
   "deletedIds": [
     "srv_1782530576032",
-    "srv_1782530654282"
+    "srv_1782530654282",
+    "srv_1782532840898"
   ]
 }
