@@ -1,21 +1,9 @@
 {
   "schemaVersion": 2,
-  "pushedAt": "2026-06-27T06:24:35Z",
-  "servers": [
-    {
-      "id": "srv_1782530576032",
-      "name": "dsdddd",
-      "listener": "https:\/\/raw.githubusercontent.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/refs\/heads\/main\/Lub.json",
-      "jsonFormat": "c",
-      "isActive": true
-    },
-    {
-      "id": "srv_1782530654282",
-      "name": "dghfvbv",
-      "listener": "https:\/\/github.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/releases\/download\/%40debrytwaremodz\/DEBRYT.User.Panel4.apk",
-      "jsonFormat": "a1",
-      "isActive": true
-    }
-  ],
-  "deletedIds": []
+  "pushedAt": "2026-06-27T06:28:38Z",
+  "servers": [],
+  "deletedIds": [
+    "srv_1782530576032",
+    "srv_1782530654282"
+  ]
 }
