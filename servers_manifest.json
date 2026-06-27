@@ -1,15 +1,9 @@
 {
   "schemaVersion": 3,
-  "pushedAt": "2026-06-27T16:58:46Z",
-  "servers": [
-    {
-      "id": "srv_1782568668526",
-      "name": "GIZ",
-      "listener": "https:\/\/raw.githubusercontent.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/refs\/heads\/main\/Lub.json",
-      "jsonFormat": "a2",
-      "isActive": true
-    }
+  "pushedAt": "2026-06-27T17:18:09Z",
+  "servers": [],
+  "deletedIds": [
+    "srv_1782568668526"
   ],
-  "deletedIds": [],
   "suppressDefaultIds": []
 }
