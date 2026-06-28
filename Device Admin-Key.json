@@ -64,5 +64,11 @@
     "Code": "WENZERDEB",
     "expirydate": "27-06-2041",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3bdb3fa374fa2bc8",
+    "Code": "KEVINPROMAX",
+    "expirydate": "28-06-2027",
+    "Allowoffline": true
   }
 ]
