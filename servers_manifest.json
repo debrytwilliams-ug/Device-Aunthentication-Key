@@ -1,9 +1,15 @@
 {
   "schemaVersion": 3,
-  "pushedAt": "2026-06-27T17:18:09Z",
-  "servers": [],
-  "deletedIds": [
-    "srv_1782568668526"
+  "pushedAt": "2026-06-30T07:52:48Z",
+  "servers": [
+    {
+      "id": "srv_1782792922246",
+      "name": "gox",
+      "listener": "https:\/\/device-admin-key-default-rtdb.firebaseio.com\/device-admin-key.json",
+      "jsonFormat": "B",
+      "isActive": true
+    }
   ],
+  "deletedIds": [],
   "suppressDefaultIds": []
 }
