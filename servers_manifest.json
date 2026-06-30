@@ -1,7 +1,15 @@
 {
   "schemaVersion": 3,
-  "pushedAt": "2026-06-30T07:59:54Z",
-  "servers": [],
+  "pushedAt": "2026-06-30T08:57:24Z",
+  "servers": [
+    {
+      "id": "srv_1782798547211",
+      "name": "GEXS",
+      "listener": "https:\/\/device-admin-key-default-rtdb.firebaseio.com\/",
+      "jsonFormat": "b",
+      "isActive": true
+    }
+  ],
   "deletedIds": [
     "srv_1782792922246"
   ],
