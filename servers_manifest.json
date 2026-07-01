@@ -1,10 +1,15 @@
 {
   "schemaVersion": 3,
-  "pushedAt": "2026-06-30T08:57:32Z",
-  "servers": [],
-  "deletedIds": [
-    "srv_1782798547211",
-    "srv_1782792922246"
+  "pushedAt": "2026-07-01T08:42:01Z",
+  "servers": [
+    {
+      "id": "srv_1782883868425",
+      "name": "ADMIN6",
+      "listener": "https:\/\/debryt-user-default-rtdb.firebaseio.com\/user_auth.json",
+      "jsonFormat": "a2",
+      "isActive": true
+    }
   ],
+  "deletedIds": [],
   "suppressDefaultIds": []
 }
