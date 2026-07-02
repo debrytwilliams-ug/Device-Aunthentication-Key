@@ -1,1 +1,9 @@
-
+{
+  "versionCode": 22,
+  "versionName": "22",
+  "apkUrl": "https:\/\/github.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/releases\/download\/%40debrytwaremodz\/DEBRYT.User.Panel_22.0.apk",
+  "releaseNotes": "=================📢📢📢📢📢==============\n■ AUTH GATE INJECTED\n■ MANY FEATURES FIXED\n\n-Tap download and install update, the update will download and automatically trigger you to grant install permission, toggle the switch button, and go back to the app. it will prompt you to install.\n\n-Then tap on install, after installation launch the app and user the following as login credentials \n\nUSERNAME : debryt\n\nPASSWORD : mySecurePass!\n\n-Then tap on the toggle switch button on keep active session to keep your logins remembered\n\nLastly tap login to login.\n\n\n-Once the app opens use the code you enter will opening your vpn app to track your user info.\n\nMuch love from DEBRYT🙏🙏🙏🙏🙏🙏🙏",
+  "forceUpdate": true,
+  "minSupportedVersion": 0,
+  "publishedAt": "2026-07-03T00:44:37Z"
+}
