@@ -1,9 +1,7 @@
 {
   "schemaVersion": 3,
-  "pushedAt": "2026-08-06T10:38:29Z",
+  "pushedAt": "2026-08-06T10:38:40Z",
   "servers": [],
-  "deletedIds": [
-    "srv_1785991717491"
-  ],
+  "deletedIds": [],
   "suppressDefaultIds": []
 }
