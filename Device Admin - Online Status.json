@@ -8,5 +8,11 @@
   "device456": {
     "lastOfflineTs": 1722901800000,
     "deviceId": "device456"
+  },
+  "edf0370df2a41d9f": {
+    "deviceId": "edf0370df2a41d9f",
+    "ts": 1785988354543,
+    "lastSeen": 1785988354543,
+    "packageName": "dialog.debryt.app"
   }
 }
