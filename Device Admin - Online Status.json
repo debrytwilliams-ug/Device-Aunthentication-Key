@@ -1,18 +1,1 @@
-{
-  "device123": {
-    "deviceId": "edf0370df2a41d9f",
-    "ts": 1722902400000,
-    "lastSeen": 1722902400000,
-    "packageName": "dialog.debryt.app"
-  },
-  "device456": {
-    "lastOfflineTs": 1722901800000,
-    "deviceId": "device456"
-  },
-  "edf0370df2a41d9f": {
-    "deviceId": "edf0370df2a41d9f",
-    "ts": 1785989385282,
-    "lastSeen": 1785989385282,
-    "packageName": "dialog.debryt.app"
-  }
-}
+
