@@ -1,1 +1,15 @@
-
+{
+  "schemaVersion": 3,
+  "pushedAt": "2026-08-06T09:50:39Z",
+  "servers": [
+    {
+      "id": "srv_1785998984551",
+      "name": "DEBFIX",
+      "listener": "https:\/\/raw.githubusercontent.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/refs\/heads\/main\/Device%20Admin%20-%20Username%20%26%20Password.json",
+      "jsonFormat": "a1",
+      "isActive": true
+    }
+  ],
+  "deletedIds": [],
+  "suppressDefaultIds": []
+}
