@@ -1,0 +1,12 @@
+{
+  "device123": {
+    "deviceId": "device123",
+    "ts": 1722902400000,
+    "lastSeen": 1722902400000,
+    "packageName": "dialog.debryt.app"
+  },
+  "device456": {
+    "lastOfflineTs": 1722901800000,
+    "deviceId": "device456"
+  }
+}
