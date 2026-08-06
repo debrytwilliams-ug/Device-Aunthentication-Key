@@ -1,12 +1,19 @@
 {
   "schemaVersion": 3,
-  "pushedAt": "2026-08-06T07:45:39Z",
+  "pushedAt": "2026-08-06T07:48:01Z",
   "servers": [
     {
       "id": "srv_1785990924877",
       "name": "dec",
       "listener": "https:\/\/debryt-credentials-default-rtdb.firebaseio.com\/servers\/srv_1782964139338\/users.json",
       "jsonFormat": "a1",
+      "isActive": true
+    },
+    {
+      "id": "srv_1785991650716",
+      "name": "fff",
+      "listener": "https:\/\/raw.githubusercontent.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/refs\/heads\/main\/servers_manifest.json",
+      "jsonFormat": "a2",
       "isActive": true
     }
   ],
