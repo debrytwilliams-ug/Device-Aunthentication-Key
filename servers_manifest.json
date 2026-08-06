@@ -1,7 +1,15 @@
 {
   "schemaVersion": 3,
-  "pushedAt": "2026-08-06T10:38:40Z",
-  "servers": [],
+  "pushedAt": "2026-08-06T10:39:34Z",
+  "servers": [
+    {
+      "id": "srv_1786001952578",
+      "name": "DEC",
+      "listener": "https:\/\/raw.githubusercontent.com\/debrytwilliams-ug\/Device-Aunthentication-Key\/refs\/heads\/main\/debryt-credentials.json",
+      "jsonFormat": "a1",
+      "isActive": true
+    }
+  ],
   "deletedIds": [],
   "suppressDefaultIds": []
 }
